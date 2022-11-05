@@ -1,0 +1,15 @@
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\bin\Debug\net6.0\Tabuada.exe
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\bin\Debug\net6.0\Tabuada.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\refint\Tabuada.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll
