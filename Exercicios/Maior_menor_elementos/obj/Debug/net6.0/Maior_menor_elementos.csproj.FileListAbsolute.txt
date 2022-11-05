@@ -1,0 +1,15 @@
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\bin\Debug\net6.0\Maior_menor_elementos.exe
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\bin\Debug\net6.0\Maior_menor_elementos.deps.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\bin\Debug\net6.0\Maior_menor_elementos.runtimeconfig.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\bin\Debug\net6.0\Maior_menor_elementos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\bin\Debug\net6.0\Maior_menor_elementos.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\refint\Maior_menor_elementos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\Maior_menor_elementos.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\CodingTank_Sinqia_BeTheNext_Turma954\Exercicios\Maior_menor_elementos\obj\Debug\net6.0\ref\Maior_menor_elementos.dll
