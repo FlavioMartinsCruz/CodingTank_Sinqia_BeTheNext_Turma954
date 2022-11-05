@@ -1,0 +1,15 @@
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\bin\Debug\net6.0\Exercicio Condicionais.exe
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\bin\Debug\net6.0\Exercicio Condicionais.deps.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\bin\Debug\net6.0\Exercicio Condicionais.runtimeconfig.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\bin\Debug\net6.0\Exercicio Condicionais.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\bin\Debug\net6.0\Exercicio Condicionais.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\refint\Exercicio Condicionais.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\Exercicio Condicionais.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicio Condicionais\obj\Debug\net6.0\ref\Exercicio Condicionais.dll

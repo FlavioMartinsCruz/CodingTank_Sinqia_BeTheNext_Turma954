@@ -1,0 +1,15 @@
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\bin\Debug\net6.0\Notas alunos.exe
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\bin\Debug\net6.0\Notas alunos.deps.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\bin\Debug\net6.0\Notas alunos.runtimeconfig.json
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\bin\Debug\net6.0\Notas alunos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\bin\Debug\net6.0\Notas alunos.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.csproj.AssemblyReference.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.AssemblyInfoInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.AssemblyInfo.cs
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.csproj.CoreCompileInputs.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\refint\Notas alunos.dll
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.pdb
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\Notas alunos.genruntimeconfig.cache
+C:\Users\flavi\OneDrive\Estagio\Sinqia\Exercicios\Notas alunos\obj\Debug\net6.0\ref\Notas alunos.dll
