@@ -1,5 +1,7 @@
 ﻿// Faça um programa que leia um número e mostre a tabuada de multiplicação dele.
 
+// Resolução: Caso a entrada seja um número negativo ou não consiga ser convertida para double, retornará uma mensagem para o usuário.
+
 Console.Clear();
 System.Console.WriteLine("Criação automatizadas de tabuadas.");
 System.Console.Write("Insira um número inteiro: ");
