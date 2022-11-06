@@ -2,7 +2,6 @@
 
 Console.Clear();
 int[] numeros = new int[10];
-String[] listaAuxiliar = new String[10];
 
 System.Console.WriteLine("Digite 10 números inteiros:");
 
@@ -12,10 +11,8 @@ for(int i=0; i<10; i++)
   numeros[i] = int.Parse(Console.ReadLine()!);
 }
 Array.Sort(numeros);
-foreach(int i in numeros)
-{
-  System.Console.WriteLine(i);
-}
+
 Console.Clear();
-System.Console.WriteLine($"O menor número é o {numeros[0]}.");
-System.Console.WriteLine($"O maior número é o {numeros[9]}.");
+System.Console.WriteLine("Resultado:");
+System.Console.WriteLine($"Menor número do vetor: {numeros[0]}.");
+System.Console.WriteLine($"Maior número do vetor: {numeros[9]}.");
