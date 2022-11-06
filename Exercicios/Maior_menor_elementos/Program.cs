@@ -8,7 +8,8 @@ System.Console.WriteLine("Digite 10 números inteiros:");
 for(int i=0; i<10; i++)
 {
   System.Console.Write($"Número {i+1}: ");
-  numeros[i] = int.Parse(Console.ReadLine()!);
+  bool sucesso = int.TryParse(Console.ReadLine(), out int numeroSaida);
+  numeros[i] = numeroSaida;
 }
 Array.Sort(numeros);
 
