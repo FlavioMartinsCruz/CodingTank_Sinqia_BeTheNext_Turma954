@@ -11,7 +11,8 @@ for(int i=0; i<10; i++)
   bool sucesso = int.TryParse(Console.ReadLine(), out int numeroSaida);
   numeros[i] = numeroSaida;
 }
-Array.Sort(numeros);
+
+Array.Sort(numeros); // Sobre o Array.Sort: https://www.geeksforgeeks.org/different-ways-to-sort-an-array-in-descending-order-in-c-sharp/
 
 Console.Clear();
 System.Console.WriteLine("Resultado:");
